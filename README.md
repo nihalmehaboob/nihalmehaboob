@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nihal-kodakkat-9a0a12237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nihal-kodakkat-9a0a12237/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nihal-kodakkat-9a0a12237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihal-kodakkat-9a0a12237" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nihalwow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihalwow" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nihalmehaboob11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nihalmehaboob11" height="30" width="40" /></a>
 </p>
